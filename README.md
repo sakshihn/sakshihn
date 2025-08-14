@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshihn&label=Profile%20views&color=0e75b6&style=flat" alt="sakshihn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshihn" alt="sakshihn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=sakshihn" alt="sakshihn" /></a> </p>
 
 - 🔭 I’m currently working on **Deep learning for Cryptocurrency price prediction**
 
@@ -18,6 +18,13 @@
 - 📄 Know about my experiences [https://in.docworkspace.com/d/sINj4p6u-Atze9sQG?sa=601.1037](https://in.docworkspace.com/d/sINj4p6u-Atze9sQG?sa=601.1037)
 
 - 🪷 Off the Script **Whether it’s coding, Bharatanatyam, crafts, or cooking, I bring precision and passion to every creation.**
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
