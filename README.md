@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences https://in.docworkspace.com/d/sIPehh9BTmvaHyQY?sa=601.1074
 
-- 👾 Off the Script **Whether it’s coding, Bharatanatyam, crafts or cooking, I bring precision and passion to every creation.**
-
 
 <!-- Snake Game Repo View -->
 
