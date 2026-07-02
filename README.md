@@ -1,39 +1,124 @@
-<h1 align="center">Hey 👋, I'm SAKSHI H N </h1>
-<h3 align="center">Aspiring Data Scientist & AI Enthusiast from India</h3>
+<h1 align="center">Hi, I'm Sakshi H N 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshihn&label=Profile%20views&color=0e75b6&style=flat" alt="sakshihn" /> </p>
-
-- 🔭 I’m currently working on **Deep learning for Cryptocurrency price prediction**
-
-- 🌱 I’m currently learning **TensorFlow | PyTorch | Scikit-learn | OpenCV | Streamlit | Django**
-
-- 👯 I’m looking to collaborate on **innovative AI and data science projects that drive measurable impact.**
-
-- 💬 Ask me about **data analytics, predictive modeling, and visualization.**
-
-- 📫 How to reach me **sakshinhoskeri@gmail.com**
-
-- 📄 Know about my experiences https://in.docworkspace.com/d/sIPehh9BTmvaHyQY?sa=601.1074
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/sakshihn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/sakshihn" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://share.google/s3xp3wvl1yiodjsqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://share.google/s3xp3wvl1yiodjsqu" height="30" width="40" /></a>
-<a href="https://discord.gg/sakshihn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sakshihn" height="30" width="40" /></a>
+<p align="center">
+  <b>Data Science Graduate · ML Engineer · GenAI & RAG Systems</b><br/>
+  <i>Building intelligent systems that turn data into decisions</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sakshihn"><img src="https://img.shields.io/badge/LinkedIn-sakshihn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:sakshinhoskeri@gmail.com"><img src="https://img.shields.io/badge/Email-sakshinhoskeri@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://sakshihn.netlify.app"><img src="https://img.shields.io/badge/Portfolio-sakshihn.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/sakshihn"><img src="https://komarev.com/ghpvc/?username=sakshihn&label=Profile+Views&color=0e75b6&style=flat"/></a>
+</p>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshihn&" alt="sakshihn" /></p>
+## About Me
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/sakshihn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/sakshihn" /></a></p><br><br>
+I'm a **B.E. CSE – Data Science** graduate (2026) from Mysore College of Engineering & Management with a CGPA of 8.2. I build end-to-end ML pipelines, LLM/RAG systems, and analytics dashboards — and I enjoy turning messy real-world data into clean, actionable products.
+
+- 🔭 &nbsp;Currently working on **RAG pipelines, LLM integration & agentic AI systems**
+- 🌱 &nbsp;Exploring **full-stack ML deployment, vector databases & CI/CD for AI**
+- 🤝 &nbsp;Open to **fresher roles in Data Science, ML Engineering & AI**
+- 💬 &nbsp;Ask me about **ML pipelines, RAG systems, deep learning & data visualisation**
+- 🏆 &nbsp;Open-source contributor — **GSSoC'25 & OSCI'25**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Libraries**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**ML / AI / GenAI**
+&nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![LLM / RAG](https://img.shields.io/badge/RAG%20%2F%20LLM-6A0DAD?style=flat&logoColor=white)
+
+**Analytics & Visualisation**
+&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Databases & Tools**
+&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 [Healthcare RAG System – LLM-Powered Medical Q&A](https://github.com/sakshihn)
+> Python · LLM · Vector Search · Streamlit · GitHub Actions CI/CD
+
+- Ingested **1,336 PubMed document chunks** into a vector store for semantic retrieval
+- Achieved **91% answer-relevance** on a 50-query test set — **+34 pts** above keyword-search baseline
+- Automated deployment via **GitHub Actions CI/CD**, reducing release time to under 3 minutes
+
+---
+
+### 📦 [QuickMind Analytics – Quick Commerce Intelligence Dashboard](https://github.com/sakshihn)
+> Python · Random Forest · Scikit-learn · Streamlit · Plotly
+
+- End-to-end ML dashboard on **9,40,000+ orders** across Blinkit, Zepto & Swiggy Instamart
+- Random Forest regression achieved **R² = 0.9658**, outperforming linear baseline by **~22%**
+- Engineered **15+ features**; reduced RMSE by **18%** over raw-feature baseline
+
+---
+
+### 📈 [Cryptocurrency Price Prediction – Deep Learning](https://github.com/sakshihn)
+> Python · LSTM · GRU · Pandas · Matplotlib
+
+- Trained LSTM & GRU models on **3 years of BTC/ETH OHLCV data**
+- GRU achieved **MAE of 312 USD** vs. 480 USD naïve baseline — a **35% improvement**
+- Applied MinMax scaling, lag-feature engineering & sliding-window sequencing
+
+---
+
+## 💼 Experience
+
+**Data Science Intern — KodNest Technologies, Bengaluru** &nbsp;`Feb 2026 – May 2026`
+- Analysed **50,000+ transaction records** using Python & SQL; surfaced 3 actionable customer trends
+- Built ML classification models for churn prediction; achieved **84% accuracy** on held-out test set
+- Deployed a Streamlit prototype for non-technical stakeholders to explore segment-level insights
+
+---
+
+## 🏅 Achievements
+
+- 🌐 **Open-Source Contributor** — GSSoC'25 & OSCI'25 | Merged PRs in Python/ML repositories
+- 🏆 **HackYugma 2025** — 24-hr State-Level Hackathon, JNNCE Shivamogga
+- 🤖 **AI Agent Hackathon** — Product Space
+- ⚡ **Code Igniter 2025** | TCS Tech Bytes | MRIT & Ghousia College Hackathons
+- 🎓 **Student & Placement Coordinator** (2022–2026), Mysore College of Engineering & Management
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshihn&theme=default&hide_border=true" alt="GitHub Streak" width="60%"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning data into decisions, one model at a time."</i><br/><br/>
+  <b>Open to fresher opportunities in Data Science, ML & AI — let's connect!</b>
+</p>
